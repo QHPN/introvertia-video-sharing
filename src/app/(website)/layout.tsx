@@ -1,5 +1,6 @@
 import React from 'react'
 import LandingPageNavBar from './_components/navbar'
+
 type Props = {
   children: React.ReactNode
 }
